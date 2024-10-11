@@ -5,7 +5,7 @@ My pracitcal partner is Diebold Nixdorf, where I apply the knowledge I gain in m
 
 At the university, I've had the oppertunity to learn about programming languages like C and Java, and I'm always eager to expand my skill set and work on new challenges.
 
-Feel free to check out my repositories or get in touch :)
+Feel free to check out my repositories or get in touch 😄
 <!--
 **lennartsch04/lennartsch04** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
