@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-I'm a 19-year-old student currently pursuing a dual course of studies in Economics and Computer Science at the University of Applied Sciences, FHDW in Paderborn, Germany.
+I'm a 20-year-old student currently pursuing a dual course of studies in Economics and Computer Science at the University of Applied Sciences, FHDW in Paderborn, Germany.
 My pracitcal partner is Diebold Nixdorf, where I apply the knowledge I gain in my studies to real-world projects.
 
 At the university, I've had the oppertunity to learn about programming languages like C and Java, and I'm always eager to expand my skill set and work on new challenges.
